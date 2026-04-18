@@ -116,10 +116,20 @@ Configure grids de colunas ou linhas em qualquer frame. Constraints definem como
 - **Canal Mizko** (`youtube.com/@Mizko`) — busque *"Figma auto layout"* e *"Figma components"*; avançado mas muito claro
 - **Canal Flux Academy** (`youtube.com/@FluxAcademy`) — busque *"Figma UI design"*; foco em design de interfaces reais
 
+**Em português:**
+- **Canal Popup Design** (`youtube.com/@popupdesign`) — busque *"Figma"*; tutoriais em PT-BR
+- **Canal Escola de Design** (`youtube.com/@EscoladeDesign`) — busque *"Figma tutorial"*
+
 ## Artigos e Documentação
 
 - **Figma Learn** (`help.figma.com`) — documentação oficial; clara e com exemplos visuais
 - **Smashing Magazine** — busque *"Figma design system"*
+
+## Cursos
+
+- **Udemy** — busque *"Figma UI UX"*; cursos completos com projetos práticos, frequentemente em promoção (~R$30)
+- **Skillshare** — vários cursos de Figma incluídos na assinatura mensal
+- **Figma Community** (`figma.com/community`) — arquivos abertos de outros designers; aprenda abrindo e analisando projetos reais
 
 ---
 

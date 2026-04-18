@@ -173,17 +173,74 @@ Alguns mockups gratuitos direto no navegador (sem precisar do Photoshop).
 
 ---
 
-## Ferramentas de Apoio (Design Thinking e Referências)
+## Referências e Inspiração
 
 | Ferramenta | Uso | Link |
 |-----------|-----|------|
-| **Behance** | Referências e portfólios de outros designers | `behance.net` |
+| **Behance** | Portfólios de designers do mundo inteiro, filtráveis por área | `behance.net` |
 | **Dribbble** | Referências de UI e identidade visual | `dribbble.com` |
 | **Pinterest** | Moodboards e referências visuais | `pinterest.com` |
-| **Are.na** | Curadoria de referências mais nicho | `are.na` |
+| **Are.na** | Curadoria de referências mais nicho e experimental | `are.na` |
+| **Brand New** | Análise crítica de redesigns de marcas reais — desenvolve senso crítico | `underconsideration.com/brandnew` |
+| **Fonts In Use** | Tipografia aplicada no mundo real: capas, cartazes, embalagens | `fontsinuse.com` |
 | **Coolors** | Paletas de cores | `coolors.co` |
 | **Type-scale** | Escala tipográfica | `type-scale.com` |
 | **Bezier Game** | Praticar pen tool | `bezier.method.ac` |
+
+---
+
+## Repositórios no GitHub
+
+O GitHub tem poucos tutoriais visuais de design, mas é rico em **listas curadas de recursos**:
+
+| Repositório | Conteúdo |
+|------------|---------|
+| **`bradtraversy/design-resources-for-developers`** | Lista enorme de fontes, ícones, cores, mockups, ferramentas e referências gratuitas |
+| **Awesome Design** | Busque *"awesome design"* no GitHub; listas curadas por categoria (UI kits, fontes, ferramentas, livros) |
+| **Figma Community** (`figma.com/community`) | Não é GitHub, mas funciona como repositório aberto: templates, sistemas de design e UI kits gratuitos e editáveis |
+
+---
+
+## Canais de YouTube
+
+### Inglês
+| Canal | Foco |
+|-------|------|
+| **The Futur** — `@TheFutur` | Branding, carreira, fundamentos — um dos melhores |
+| **Satori Graphics** — `@SatoriGraphics` | Princípios de design, Illustrator, tutoriais práticos |
+| **Will Paterson** — `@WillPaterson` | Logo design, lettering, identidade visual |
+| **Dansky** — `@dansky` | Illustrator, Photoshop, projetos completos |
+| **DesignCourse** — `@DesignCourse` | UI/UX, Figma, fundamentos visuais |
+| **Adobe Creative Cloud** — `@AdobeCreativeCloud` | Tutoriais oficiais de todos os softwares Adobe |
+| **Figma** — `@Figma` | Figma — canal oficial com série para iniciantes |
+| **PHLEARN** — `@PHLEARN` | Photoshop avançado — composição e retoque |
+| **Flux Academy** — `@FluxAcademy` | UI/UX, Figma, carreira em design |
+
+### Português
+| Canal | Foco |
+|-------|------|
+| **Popup Design** — `@popupdesign` | Fundamentos, ferramentas Adobe, carreira em PT-BR |
+| **Escola de Design** — `@EscoladeDesign` | Tutoriais variados em português |
+
+---
+
+## Plataformas de Cursos
+
+### Gratuitas
+| Plataforma | Conteúdo |
+|-----------|---------|
+| **Google Fonts Knowledge** (`fonts.google.com/knowledge`) | Guia completo de tipografia, gratuito e interativo |
+| **Figma Learn** (`help.figma.com`) | Documentação oficial com tutoriais guiados |
+| **Adobe Tutorials** (`helpx.adobe.com`) | Tutoriais oficiais de todos os softwares Adobe |
+| **Canva Design School** (`canva.com/learn`) | Fundamentos em português, gratuito |
+
+### Pagas
+| Plataforma | Observação |
+|-----------|-----------|
+| **Udemy** (`udemy.com`) | Cursos completos com projetos práticos; promoções frequentes (~R$30 por curso) |
+| **Skillshare** (`skillshare.com`) | Assinatura mensal com muitos cursos de design gráfico e identidade visual |
+| **Coursera** (`coursera.org`) | Especializações em UX/UI de universidades; alguns certificados gratuitos para auditar |
+| **LinkedIn Learning** | Boa cobertura de softwares Adobe; incluso em contas LinkedIn Premium |
 
 ---
 

@@ -128,10 +128,19 @@ Mockup é uma apresentação realista de um projeto em contexto — um logo apli
 - **Canal Pixel & Bracket** (`youtube.com/@PixelAndBracket`) — busque *"Photoshop mockup"*; tutoriais de design gráfico específicos
 - **Canal Satori Graphics** (`youtube.com/@SatoriGraphics`) — busque *"Photoshop for graphic designers"*
 
+**Em português:**
+- **Canal Popup Design** (`youtube.com/@popupdesign`) — busque *"Photoshop"*
+- **Canal Escola de Design** (`youtube.com/@EscoladeDesign`) — busque *"Adobe Photoshop tutorial"*
+
 ## Artigos e Documentação
 
 - **Adobe Photoshop Tutorials** (`helpx.adobe.com/photoshop/tutorials.html`) — tutoriais oficiais organizados por nível e tema
 - **Photoshop Essentials** (`photoshopessentials.com`) — site dedicado a tutoriais de Photoshop; muito didático
+
+## Cursos
+
+- **Udemy** — busque *"Adobe Photoshop"*; cursos completos do zero ao avançado
+- **Skillshare** — boa seleção de cursos com foco em composição e manipulação de imagens
 
 ---
 

@@ -96,6 +96,10 @@ A proporção encontrada na natureza, em conchas, folhas e pinturas renascentist
 - **Canal The Futur** (`youtube.com/@TheFutur`) — busque *"layout design principles"*
 - **Canal Figma** (`youtube.com/@Figma`) — busque *"auto layout grid"*; mostra como usar grids no Figma na prática
 
+**Em português:**
+- **Canal Popup Design** (`youtube.com/@popupdesign`) — busque *"grid design"* e *"espaçamento"*
+- **Canal Escola de Design** (`youtube.com/@EscoladeDesign`) — busque *"grid tipográfico"*
+
 ## Artigos Recomendados
 
 - **Smashing Magazine** — busque *"grid design layout"*; artigos técnicos aprofundados

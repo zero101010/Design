@@ -110,10 +110,19 @@ InDesign não existe em isolamento — ele recebe arquivos de outros programas:
 - **Canal Dansky** (`youtube.com/@dansky`) — busque *"InDesign magazine layout"*; foco em layout editorial
 - **Canal Envato Tuts+** (`youtube.com/@tutsplus`) — busque *"InDesign"*; tutoriais variados incluindo zines, catálogos e revistas
 
+**Em português:**
+- **Canal Popup Design** (`youtube.com/@popupdesign`) — busque *"InDesign"*
+- **Canal Escola de Design** (`youtube.com/@EscoladeDesign`) — busque *"Adobe InDesign tutorial"*
+
 ## Artigos e Documentação
 
 - **Adobe InDesign Tutorials** (`helpx.adobe.com/indesign/tutorials.html`) — tutoriais oficiais
 - **InDesign Secrets** (`indesignsecrets.com`) — blog especializado com dicas avançadas
+
+## Cursos
+
+- **Udemy** — busque *"Adobe InDesign"*; cursos com projetos editoriais reais (revistas, livros)
+- **LinkedIn Learning** — boa cobertura de InDesign para diagramação profissional
 
 ---
 

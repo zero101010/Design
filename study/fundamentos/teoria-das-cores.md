@@ -107,11 +107,16 @@ As cores carregam associações culturais. Use-as com intenção:
 - **Canal The Futur** (`youtube.com/@TheFutur`) — busque *"color in branding"*; como a cor funciona em identidade de marca
 - **Canal Will Paterson** (`youtube.com/@WillPaterson`) — busque *"color palettes for logos"*; aplicação prática
 
+**Em português:**
+- **Canal Popup Design** (`youtube.com/@popupdesign`) — busque *"teoria das cores"*
+- **Canal Escola de Design** (`youtube.com/@EscoladeDesign`) — busque *"cores no design"*
+
 ## Artigos Recomendados
 
 - **99designs.com/blog** — busque *"color theory"*; guia completo com exemplos de marcas reais
 - **Smashing Magazine** — busque *"color design guide"*
 - **Canva Design School** — busque *"teoria das cores"* (disponível em português)
+- **Brand New** (`underconsideration.com/brandnew`) — veja como escolhas de cor mudam a percepção de marcas em redesigns reais
 
 ---
 

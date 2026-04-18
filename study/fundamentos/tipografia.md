@@ -104,11 +104,16 @@ Em vez de escolher tamanhos aleatoriamente, use uma escala proporcional:
 - **Canal Will Paterson** (`youtube.com/@WillPaterson`) — busque *"font pairing"* e *"typography for logo design"*
 - **Canal Dansky** (`youtube.com/@dansky`) — busque *"typography in Illustrator"*; aplicação prática em ferramenta
 
+**Em português:**
+- **Canal Popup Design** (`youtube.com/@popupdesign`) — busque *"tipografia"*; conteúdo em PT-BR
+- **Canal Escola de Design** (`youtube.com/@EscoladeDesign`) — busque *"tipografia para designers"*
+
 ## Artigos Recomendados
 
 - **Smashing Magazine** — busque *"typography design guide"*; um dos recursos mais completos disponíveis
 - **Google Fonts Knowledge** (`fonts.google.com/knowledge`) — guia completo sobre tipografia com exemplos interativos, **gratuito**
 - **Canva Design School** — busque *"tipografia"* (em português)
+- **Fonts In Use** (`fontsinuse.com`) — banco de dados de tipografia aplicada no mundo real: capas de livro, cartazes, embalagens, logotipos — essencial para desenvolver o olhar tipográfico
 
 ---
 

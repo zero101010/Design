@@ -60,11 +60,16 @@ Pegue qualquer cartaz ou capa de revista e responda:
 - **Canal Satori Graphics** (`youtube.com/@SatoriGraphics`) — busque por *"hierarchy in graphic design"*; abordagem direta com comparações visuais antes/depois
 - **Canal AJ&Smart** — busque por *"design principles visual hierarchy"*; ótimo para entender aplicação em UI
 
+**Em português:**
+- **Canal Popup Design** (`youtube.com/@popupdesign`) — busque *"hierarquia visual"*; conteúdo em PT-BR sobre fundamentos
+- **Canal Escola de Design** (`youtube.com/@EscoladeDesign`) — tutoriais e fundamentos em português
+
 ## Artigos Recomendados
 
 - **99designs.com/blog** — busque *"visual hierarchy"*; artigo com muitos exemplos visuais
 - **Smashing Magazine** (`smashingmagazine.com`) — busque *"visual hierarchy design"*; abordagem técnica aprofundada
 - **Canva Design School** (`canva.com/learn`) — busque *"hierarquia visual"*; disponível em português com exemplos práticos
+- **Brand New** (`underconsideration.com/brandnew`) — análise crítica de redesigns de marcas reais; excelente para ver hierarquia aplicada em identidades visuais profissionais
 
 ---
 

@@ -115,10 +115,19 @@ Usa uma forma como máscara para recortar outra imagem ou grupo. Essencial para 
 - **Canal Satori Graphics** (`youtube.com/@SatoriGraphics`) — busque *"Illustrator tips"* e *"pen tool"*; dicas de fluxo de trabalho
 - **Canal How to Graphic Design** — busque *"Illustrator beginner"*; didático para iniciantes
 
+**Em português:**
+- **Canal Popup Design** (`youtube.com/@popupdesign`) — busque *"Illustrator"*; tutoriais em PT-BR
+- **Canal Escola de Design** (`youtube.com/@EscoladeDesign`) — busque *"Adobe Illustrator tutorial"*
+
 ## Artigos e Documentação
 
 - **Adobe Illustrator Tutorials** (`helpx.adobe.com/illustrator/tutorials.html`) — tutoriais oficiais em vídeo e texto, organizados por nível
 - **Adobe Illustrator User Guide** (`helpx.adobe.com/illustrator/user-guide.html`) — documentação completa de todas as ferramentas
+
+## Cursos
+
+- **Udemy** — busque *"Adobe Illustrator"*; cursos com projetos reais de logo design
+- **Skillshare** — boa seleção de cursos de identidade visual com Illustrator
 
 ---
 

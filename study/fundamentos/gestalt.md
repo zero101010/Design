@@ -91,6 +91,10 @@ A percepção é influenciada pelo que já vimos. Reconhecemos símbolos e ícon
 - **Canal The Futur** (`youtube.com/@TheFutur`) — busque *"gestalt design"*
 - **Canal DesignCourse** (`youtube.com/@DesignCourse`) — busque *"gestalt principles"*; didático e com exemplos modernos
 
+**Em português:**
+- **Canal Popup Design** (`youtube.com/@popupdesign`) — busque *"gestalt"*
+- **Canal Escola de Design** (`youtube.com/@EscoladeDesign`) — busque *"princípios da gestalt"*
+
 ## Artigos Recomendados
 
 - **Smashing Magazine** — busque *"gestalt principles"*; artigo clássico e muito completo com exemplos interativos
